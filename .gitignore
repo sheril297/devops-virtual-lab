@@ -1,0 +1,10 @@
+# AWS keys
+*.pem
+*.ppk
+
+# Terraform files
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+crash.log
+crash.*.log
